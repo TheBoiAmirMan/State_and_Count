@@ -1,2 +1,2 @@
-# State_and_Count
-Created with CodeSandbox
+this was an challenge to text my react knowledge and nothing else
+So don't take it serious
