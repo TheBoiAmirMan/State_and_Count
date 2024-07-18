@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.fix {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+}
+.btn {
+  width: 1.8rem;
+  cursor: pointer;
+}
